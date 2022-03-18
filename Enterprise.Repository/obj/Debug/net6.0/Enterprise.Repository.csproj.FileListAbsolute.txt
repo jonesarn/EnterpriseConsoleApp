@@ -1,0 +1,5 @@
+/Users/armondjones/Desktop/ElevenFifty129/CF129/Enterprise/Enterprise.Repository/obj/Debug/net6.0/Enterprise.Repository.csproj.AssemblyReference.cache
+/Users/armondjones/Desktop/ElevenFifty129/CF129/Enterprise/Enterprise.Repository/obj/Debug/net6.0/Enterprise.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armondjones/Desktop/ElevenFifty129/CF129/Enterprise/Enterprise.Repository/obj/Debug/net6.0/Enterprise.Repository.AssemblyInfoInputs.cache
+/Users/armondjones/Desktop/ElevenFifty129/CF129/Enterprise/Enterprise.Repository/obj/Debug/net6.0/Enterprise.Repository.AssemblyInfo.cs
+/Users/armondjones/Desktop/ElevenFifty129/CF129/Enterprise/Enterprise.Repository/obj/Debug/net6.0/Enterprise.Repository.csproj.CoreCompileInputs.cache
