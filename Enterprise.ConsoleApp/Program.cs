@@ -8,6 +8,7 @@ namespace Enterprise.ConsoleApp
         static void Main(string[] args)
         {
             UserInterface _ui = new UserInterface();
+            _ui.Run();
         }
     }
 }
