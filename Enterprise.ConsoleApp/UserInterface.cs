@@ -122,7 +122,8 @@ namespace Enterprise.ConsoleApp
         }
         public void PrintCarColor()
         {
-            Console.WriteLine("Diet Type:\n" +
+            Console.WriteLine("Car Color4
+                Type:\n" +
                     "1. Black\n" +
                     "2. blue\n" +
                     "3. red\n"+
